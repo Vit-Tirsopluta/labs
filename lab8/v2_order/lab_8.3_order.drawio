@@ -1,0 +1,175 @@
+<mxfile host="65bd71144e">
+    <diagram id="I_C9XIxeVrHfnewKp0mZ" name="Page-1">
+        <mxGraphModel dx="789" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="335.33333333333337" y="110" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Початок" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="30" width="90" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="335" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(236, 196, 141); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;&quot;&gt;Виведення вектора a до сортування:&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="335" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="370" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="420" y="215"/>
+                            <mxPoint x="420" y="350"/>
+                            <mxPoint x="335" y="350"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="i = 0; NUM; i = i + 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="262.5" y="200" width="145" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="335.3103448275863" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="&lt;img style=&quot;font-size: 12px;&quot; alt=&quot;&quot; src=&quot;data:image/png;base64,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&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="263.75" y="250" width="142.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="10" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="325"/>
+                            <mxPoint x="240" y="215"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="Виведення a [ i ]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="267.5" y="310" width="135" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="335.3103448275863" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="640" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="440" y="385"/>
+                            <mxPoint x="440" y="620"/>
+                            <mxPoint x="320" y="620"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="i = 0; NUM; i = i + 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="263.75" y="370" width="142.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="15" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="335.3103448275863" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="15" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="424" y="610"/>
+                            <mxPoint x="210" y="610"/>
+                            <mxPoint x="210" y="385"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="j = i + 2; NUM; j = j + 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="246.25" y="420" width="177.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="17" target="19" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="335.3103448275863" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="18" vertex="1" connectable="0">
+                    <mxGeometry x="-0.3494" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="17" target="15" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="230" y="495"/>
+                            <mxPoint x="230" y="435"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="21" vertex="1" connectable="0">
+                    <mxGeometry x="-0.7062" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="a[ i ] &amp;gt; a[ j ]" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="282.5" y="470" width="105" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="19" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="490" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="230" y="575"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;temp = a [ i ]&lt;br&gt;a[ i ] = a[ j ]&lt;br&gt;a[ j ] = temp&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="292.5" y="550" width="85" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="27" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320.1379310344828" y="720.0000000000001" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="Виведення вектора a після сортування (парні індекси):" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="245" y="640" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="29" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320.1379310344828" y="770.0000000000001" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="29" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="830" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="410" y="735"/>
+                            <mxPoint x="410" y="810"/>
+                            <mxPoint x="320" y="810"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="i = 0; NUM; i = i + 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="245" y="720" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="31" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="230" y="785"/>
+                            <mxPoint x="230" y="735"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="Виведення&amp;nbsp;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(197, 228, 120);&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;background-color: rgb(1, 22, 39); color: rgb(214, 222, 235); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(197, 228, 120);&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;background-color: rgb(1, 22, 39); color: rgb(214, 222, 235); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;]&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="770" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Кінець" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="271.5" y="830" width="97" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

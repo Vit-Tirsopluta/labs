@@ -1,0 +1,202 @@
+<mxfile host="65bd71144e">
+    <diagram id="duIRcsbI5w8OgHgaeUKp" name="Page-1">
+        <mxGraphModel dx="907" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Початок" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="50" width="105" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;x&lt;/span&gt; &lt;span style=&quot;color: #c792ea;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #f78c6c;&quot;&gt;12.38&lt;/span&gt;;&lt;/div&gt;&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;NUM&lt;/span&gt; &lt;span style=&quot;color: #c792ea;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #f78c6c;&quot;&gt;5&lt;/span&gt;;&lt;/div&gt;&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;span style=&quot;color: rgb(197, 228, 120);&quot;&gt;middle_sum&lt;/span&gt; &lt;span style=&quot;color: rgb(199, 146, 234);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(247, 140, 108);&quot;&gt;0&lt;/span&gt;;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="356" y="120" width="137.5" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="427.5" y="590" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="527.5" y="260"/>
+                            <mxPoint x="527.5" y="570"/>
+                            <mxPoint x="427.5" y="570"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="i = 1; NUM + 1; i = i + 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="342.5" y="240" width="155" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;a&lt;/span&gt;[&lt;span style=&quot;color: #c5e478;&quot;&gt;i&lt;/span&gt; &lt;span style=&quot;color: #c792ea;&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;color: #f78c6c;&quot;&gt;1&lt;/span&gt;] &lt;span style=&quot;color: #c792ea;&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;img alt=&quot;&quot; src=&quot;data:image/png;base64,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&quot;&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="346.25" y="300" width="147.5" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;" parent="1" source="9" target="11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;middle_sum&lt;/span&gt; &lt;span style=&quot;color: #c792ea;&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; color: rgb(197, 228, 120);&quot;&gt;middle_sum +&lt;/span&gt;&lt;span style=&quot;color: rgb(214, 222, 235); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; background-color: rgb(1, 22, 39);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt; &lt;span style=&quot;color: #c5e478;&quot;&gt;a&lt;/span&gt;[&lt;span style=&quot;color: #c5e478;&quot;&gt;i&lt;/span&gt; &lt;span style=&quot;color: #c792ea;&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;color: #f78c6c;&quot;&gt;1&lt;/span&gt;];&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="410" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="11" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="317.5" y="530"/>
+                            <mxPoint x="317.5" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Виведення:&lt;br&gt;&lt;span style=&quot;color: rgb(197, 228, 120); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px;&quot;&gt;a&lt;/span&gt;&amp;nbsp;[&lt;/font&gt;&lt;span style=&quot;color: rgb(197, 228, 120); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; background-color: rgb(1, 22, 39);&quot;&gt;i&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;]&lt;/font&gt; =&amp;nbsp;&lt;span style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; color: rgb(197, 228, 120);&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;background-color: rgb(1, 22, 39); color: rgb(214, 222, 235); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; color: rgb(197, 228, 120);&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;background-color: rgb(1, 22, 39); color: rgb(214, 222, 235); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; color: rgb(199, 146, 234);&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;background-color: rgb(1, 22, 39); color: rgb(214, 222, 235); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; color: rgb(247, 140, 108);&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;background-color: rgb(1, 22, 39); color: rgb(214, 222, 235); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px;&quot;&gt;]&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="346.25" y="500" width="147.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="15" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;div style=&quot;background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: rgb(197, 228, 120);&quot;&gt;middle_sum&lt;/span&gt;&lt;font color=&quot;#d6deeb&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(199, 146, 234);&quot;&gt;=&lt;/span&gt;&amp;nbsp;&lt;/div&gt;&lt;span style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; color: rgb(197, 228, 120);&quot;&gt;middle_sum&lt;/span&gt;&lt;font style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px;&quot; color=&quot;#d6deeb&quot;&gt;&amp;nbsp;/&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: rgb(197, 228, 120);&quot;&gt;NUM&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="367.5" y="590" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="16" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;span style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; color: rgb(197, 228, 120);&quot;&gt;middle_sum&lt;/span&gt;&lt;font style=&quot;font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px;&quot; color=&quot;#d6deeb&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="363.75" y="680" width="127.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="18" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="18" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="430" y="1320" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="540" y="780"/>
+                            <mxPoint x="540" y="1300"/>
+                            <mxPoint x="430" y="1300"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="i = 0; NUM; i = i + 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="355" y="760" width="145" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="20" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="20" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="520" y="840"/>
+                            <mxPoint x="520" y="1290"/>
+                            <mxPoint x="300" y="1290"/>
+                            <mxPoint x="300" y="780"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="j = i + 1; NUM; j = j + 1&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="349.06" y="820" width="156.87" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="22" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;sort&lt;/span&gt; &lt;span style=&quot;color: #c792ea;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #f78c6c;&quot;&gt;0&lt;/span&gt;;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="382.49" y="880" width="90.01" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="24" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="426.5" y="1050" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;a&lt;/span&gt;[&lt;span style=&quot;color: #c5e478;&quot;&gt;i&lt;/span&gt;] &lt;span style=&quot;color: #c792ea;&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&quot;color: #c5e478;&quot;&gt;a&lt;/span&gt;[&lt;span style=&quot;color: #c5e478;&quot;&gt;j&lt;/span&gt;]&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="352.5" y="930" width="145" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="А" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="405" y="1050" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="30" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="А" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="407.5" y="1120" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="32" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="330" y="1235"/>
+                            <mxPoint x="330" y="840"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;sort&lt;/span&gt; &lt;span style=&quot;color: #c792ea;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #c5e478;&quot;&gt;a&lt;/span&gt;[&lt;span style=&quot;color: #c5e478;&quot;&gt;i&lt;/span&gt;];&lt;/div&gt;&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;a&lt;/span&gt;[&lt;span style=&quot;color: #c5e478;&quot;&gt;i&lt;/span&gt;] &lt;span style=&quot;color: #c792ea;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #c5e478;&quot;&gt;a&lt;/span&gt;[&lt;span style=&quot;color: #c5e478;&quot;&gt;j&lt;/span&gt;];&lt;/div&gt;&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;a&lt;/span&gt;[&lt;span style=&quot;color: #c5e478;&quot;&gt;j&lt;/span&gt;] &lt;span style=&quot;color: #c792ea;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #c5e478;&quot;&gt;sort&lt;/span&gt;;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="366.25" y="1200" width="122.5" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="37" target="38" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #ecc48d;&quot;&gt;Виведення після сортування:&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="368.75" y="1320" width="131.25" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="edgeStyle=none;html=1;fontSize=14;" parent="1" source="38" target="43" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="38" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="440" y="1650" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="570" y="1453"/>
+                            <mxPoint x="570" y="1630"/>
+                            <mxPoint x="440" y="1630"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="i = 0; NUM; i = i + 1;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="359.77" y="1430" width="149.22" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="43" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="520" y="1590" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="520" y="1535"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="46" vertex="1" connectable="0">
+                    <mxGeometry x="-0.0933" y="-3" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="43" target="38" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="49" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2281" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; a [&lt;span style=&quot;color: rgb(197, 228, 120); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; background-color: rgb(1, 22, 39);&quot;&gt;i&lt;/span&gt;] &amp;gt;&amp;nbsp; &amp;nbsp; middle_sum&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="366.87" y="1500" width="133.13" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="48" target="38" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="340" y="1605"/>
+                            <mxPoint x="340" y="1450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="&lt;div style=&quot;color: rgb(214, 222, 235); background-color: rgb(1, 22, 39); font-family: Consolas, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;span style=&quot;color: #c5e478;&quot;&gt;a&lt;/span&gt;[&lt;span style=&quot;color: #c5e478;&quot;&gt;i&lt;/span&gt;]&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="475" y="1590" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Кінець" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="398.75" y="1650" width="90" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.465;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="460" y="320" as="sourcePoint"/>
+                        <mxPoint x="419.375" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
