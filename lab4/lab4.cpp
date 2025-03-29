@@ -1,10 +1,9 @@
 #include <iostream>
-#include <stdio.h>
 #include <math.h>
 
+using namespace std;
 int main()
-{
-    using namespace std;
+{ 
     setlocale(LC_ALL, "Ukr");
     cout<<"----------------Лабораторна робота №4-------------------\n"<<endl;
     cout<<"Програма для обчислень одного із значень функції на проміжку [-6;6]\n"<<endl;
